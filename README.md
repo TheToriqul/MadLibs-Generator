@@ -1,4 +1,4 @@
-## Case of the Missing <Artifact>:**
+## Case of the Missing <Artifact>:
 
 This code lets you play a fun game called Mad Libs! It starts with a pre-written story filled with special placeholders like "<adjective>" or "<noun>". The code asks you for words to replace these placeholders, making the story silly and personal. It then puts all your words together to create a brand new, one-of-a-kind story!
 
